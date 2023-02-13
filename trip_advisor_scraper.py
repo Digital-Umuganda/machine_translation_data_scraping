@@ -45,7 +45,7 @@ for destination in destinations_to_scrap:
             csvWriter.writerow([date, review])
 
         # When all the reviews in the container have been processed, change the page and repeat
-        driver.find_element("xpath",'.//a[@class="BrOJk u j z _F wSSLS tIqAi unMkR"]').click()
-    
+        next_page = driver.find_element("xpath",'.//a[@class="BrOJk u j z _F wSSLS tIqAi unMkR"]')
+        driver.execute_script("arguments[0].click();",next_page)
 
 driver.quit()
