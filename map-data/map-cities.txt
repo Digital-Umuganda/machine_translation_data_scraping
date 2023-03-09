@@ -63,6 +63,7 @@ Cancun
 Cape Point
 Cape Town
 Capetown
+CapeTown
 Casablanca
 Catania
 Cefalu
@@ -409,3 +410,19 @@ taipei
 the Hague
 the Playa de las Americas
 Oxford
+Franz Josef
+dar el Salam
+Playa Del Carmen
+El Fuerte
+Dusseldorf
+Rothenburg ob der Tauber
+Mittenwald
+Seefeld
+Cologne
+Koln
+Bardolino
+Ancona
+Alcudia
+Mahon
+Cork
+Broom
