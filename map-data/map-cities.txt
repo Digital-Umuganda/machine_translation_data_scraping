@@ -1,0 +1,411 @@
+Abu Dhabi
+Abu-Dhabi
+Acapulco
+Adler
+Agadir
+Agrigento
+Akaroa
+Albany
+Albuquerque
+Alcatraz
+Alexandria
+Alicante
+Amman
+Amsterdam
+Antananarivo
+Antibes
+Anuradhapura
+Apia
+Aqaba
+Arica
+Ashdod
+Asilah
+Athens
+Auckland
+Auckland CBD
+Auckland city
+Auckland to Matamata
+Austin
+Baden
+Bal Harbor
+Bali
+Bangkok
+Barcelona
+Bari
+Bariloche
+Barra
+Bayeux
+Beersheba
+Beijing
+Belfast
+Benidorm
+Bergamo
+Berlin
+Bethlehem
+Birgunj
+Birmingham
+Blackpool
+Boston
+Brisbane
+Bruges
+Brussels
+Budapest
+Buenos Aire
+Buenos Aires
+Busan
+Busselton
+Cagliari
+Cairns
+Cairo
+Calama
+Canberra
+Cancun
+Cape Point
+Cape Town
+Capetown
+Casablanca
+Catania
+Cefalu
+Chania Town
+Chester
+Christchurch
+Civitavecchia
+Clearwater beach
+Collioure
+Colonia
+Colorado
+Copacabana
+Copenhagen
+Copenhagen city centre
+Córdoba
+Cork city
+CostaAdeje
+Dallas
+Dar Es salaam
+Dar es Salaam
+Darwin
+Delhi
+Disney Village
+Doha
+Dubai
+Dublin
+Dubrovnik
+Dunedin
+Durham
+Edinburgh
+Eilat
+Eindhoven
+El Paso
+Estepona
+Evesham
+Fajardo
+Florence
+Florida
+Forfjord
+Foro Di Augusto
+Fort Lauderdale
+Frankfurt
+Fredericksburg
+Freiburg
+Fremantle
+Fresno
+Galveston
+Gangnam
+Gapyeong
+Gatwick
+Geneva
+Genoa
+Girona city
+Glasgow
+Glasgow city
+Gluttons Bay
+Granada
+Greenwich
+Guangzhou
+Gyeongbokgung
+Haarlem
+Haifa
+Halifax
+Halle
+Hamburg
+Hammamet city
+Hangzhou
+Hanoi
+Harare city
+Hasselt
+Havana
+Heathrow
+Heidelberg
+Helsinki
+Henderson
+Ho Chi Minh
+Hollywood
+Houston
+Humble
+Humble/Houston Area
+Hurghada
+Invercargill
+Ischia
+Islamabad
+Ithaca
+Jaipur
+Jaisalmer
+Jakarta
+Jerusalem
+Jodhpur
+Johannesburg
+Jumeirah
+Karachi
+Kathmandu
+Kazan
+Kenmore
+Kerala
+Kimbe
+Kissimmee
+Kokopo
+Korsakov
+Kos
+Krabi
+Kyoto
+La Carolina Lodge
+Lae
+Lago Verde
+Lahore
+Lamu
+Las Cruces
+Las Vegas
+Lauderdale
+Leeds
+Lefkas
+Leidseplein
+Les Halles
+Lhasa
+Lima
+Lisbon
+Liverpool
+London
+Long Island
+Los Mochis
+Lugano
+Luxor
+Lyon
+Maastricht
+Macau
+Madeleine
+Madrid
+Mahe
+Makadi Bay
+Malaga
+Malcesine
+Malelane
+Malindi
+Malpensa
+Manaus
+Manchester
+Manila
+Mansfield
+Marksburg
+Marrakech
+Marsala
+Medina
+Melbourne
+Mendoza
+Mexico City
+Miami
+Miami Beach
+Milford
+Mlini
+Mobile
+Modena
+Mombasa
+Montauk
+Montevideo
+Montpellier
+Montreal
+Montreux
+Moreton
+Moscow
+Mostar
+Mumbai
+Munich
+Murcia
+NAdi
+Nadi
+Naejangsan
+Nairobi
+Napier
+Naples
+Napoli
+Narita
+Nerja
+New Orleans
+New York
+New York City
+Newcastle
+Newquay
+Norfolk
+Noto
+Notting Hill
+Orlando
+Oslo
+Padang
+Paignton
+Pailin
+Palermo
+Palma
+Parga
+Paris
+Parma
+Pearl
+Perth
+Petersburg
+Phalaborwa
+Phan Thiet
+Phnom Penh
+Phoenix
+Phu Quoc
+Phuket
+Pisa
+Playa Avellanas
+Pokhara
+Ponce
+Port Elizabeth
+Port Lincoln
+Port Louis
+Port Moresby
+Prague
+Pretoria
+Puerto Del Carmen
+Puerto Montt
+Puerto Plata
+Puerto Williams
+Puerto del Carmen
+Punaauia
+Punta Cana
+Queenstown
+Ravello
+Rawalpindi
+Rethymno
+Retiro
+Rhodes Town
+Riccione
+Rio
+Rio de Janeiro
+Riomaggiore
+Rome
+Romsdalseggen
+Rosario
+Safed
+Saint Raphael
+Salinas
+Salzburg
+Samara
+San Antonio
+San Augustin
+San Carlos
+San Diego
+San Francisco
+San Jose
+San Juan
+San Pedro
+San Pedro de Atacama
+San-Jose
+Sandton
+Santa Barbara
+Santa Fe
+Santa Teresa
+Santiago
+Schiphol
+Scottdale
+Scottsdale
+Seogwipo
+Seoul
+Seville
+Shanghai
+Sochi
+Soller
+St Girons
+St Petersburg
+St. Petersburg
+Stavropol
+Stockholm
+Sunset
+Suzhou
+Sydney
+Syracuse
+Tabatinga
+Taichung
+Taipei
+Tampa
+Tanger
+Taormina
+Taoyuan
+Tbilisi
+Tel Aviv
+Tempe
+Temuco
+Texas
+The Hague
+Thessaloniki
+Tiberia
+Tiberias
+Tivoli
+Tokyo
+Toronto
+Torquay
+Torremolinos
+Tortuguero
+Toulouse
+Tours
+Trincomalee
+Trinidad
+Tromso
+Trondheim
+Tucson
+Tulum
+Tunis
+Turin
+Tyler
+Uyuni
+Vancouver
+Varadero
+Vatican City
+Venice
+Verona
+Versailles
+Victoria
+Vienna
+Villasimius
+Virginia
+Vladikavkaz
+Wanaka
+Warsaw
+Washington
+Wellington
+Wengen
+Wewak
+Wolfville
+Xiamen
+Yellowknife
+York
+Zakopane
+Zanzibar
+Zhangjiajie
+Zurich
+amsterdam
+austin
+edinburgh
+hamburg
+igoumenitsa
+johannesburg
+lauderdale
+madrid
+moorea
+munich
+puerto Rico
+seoul
+sydney
+taipei
+the Hague
+the Playa de las Americas
+Oxford
